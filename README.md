@@ -12,3 +12,6 @@
 ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.2. Embarked
 ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.3. Fare
 ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.2.4. Cabin
+###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3. Distribuição do target
+###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4. Correlações
+###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5. Distribuição das Targets nas Features
