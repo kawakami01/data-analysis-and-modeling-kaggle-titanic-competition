@@ -15,3 +15,7 @@
 ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.3. Distribuição do target
 ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.4. Correlações
 ###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5. Distribuição das Targets nas Features
+###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.1. Features Contínuas
+###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.5.2. Features Categóricas
+###  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;1.6. Conclusão
+
